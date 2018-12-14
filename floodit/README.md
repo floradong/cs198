@@ -8,7 +8,7 @@ Objective: The objective of the game is to fill a board completely with one numb
 
 How: To change the squares’ colors, the player must input the coordinates of the square that is the desired number they would want to change the board to using change(x, y), with x being the row and y being the column.  Once entered, all the squares of the same number adjacent to the top left square (1,1) will turn into the desired number. 
 
-To start the game, the player run start.py, in which a welcome message and a question will appear, asking about the board size. Players may choose their difficulty based on the size of the board they want to play with. From a scale of 2 to 14, players may input their desired board size to get their desired difficulty. For example, if a player wants a slightly hard board and inputs 10, a 10x10 board will appear. 
+To start the game, the player run start.py, in which a welcome message and a question will appear, asking about the board size. Players may choose their difficulty based on the size of the board they want to play with. From a scale of 3 to 14, players may input their desired board size to get their desired difficulty. For example, if a player wants a slightly hard board and inputs 10, a 10x10 board will appear. 
 
 If the player successfully changes all the squares in the entire board to the same number within the given amount of steps, the screen will display that the player have won. However, if the player ran out of moves and have already used up all their moves before the entire board is changed to the same color, the screen will display that the player has lost and that the game is over. 
 

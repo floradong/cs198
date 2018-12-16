@@ -1,4 +1,4 @@
-Flood-It
+Flood-It (python)
 
 The Manual
 
